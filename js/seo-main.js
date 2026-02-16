@@ -10,7 +10,7 @@ const mainSiteSEO = {
     founder: {
         name: "Richard Welishe",
         title: "CEO & Founder",
-        email: "richard@ugandaavocados.org",
+        email: "richard.welishe@ugandaavocados.org",
         phone: "+256774092470",
         bio: "Founder and CEO of Uganda Avocados, leading the avocado revolution in East Africa with over 15 years of agribusiness experience."
     },

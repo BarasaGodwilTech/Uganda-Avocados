@@ -22,7 +22,7 @@
                 "@type": "Person",
                 "name": "Richard Welishe",
                 "jobTitle": "CEO & Founder",
-                "email": "richard@ugandaavocados.org",
+                "email": "richard.welishe@ugandaavocados.org",
                 "telephone": "+256774092470",
                 "url": "https://ugandaavocados.org/team/richard-welishe"
             }
@@ -73,7 +73,7 @@
         },
         "url": "https://ugandaavocados.org/team/richard-welishe",
         "image": "https://ugandaavocados.org/images/team/richard-welishe.jpg",
-        "email": "richard@ugandaavocados.org",
+        "email": "richard.welishe@ugandaavocados.org",
         "telephone": "+256774092470",
         "sameAs": [
             "https://linkedin.com/in/richardwelishe",

@@ -21,6 +21,6 @@ Host: https://ugandaavocados.org
 # SEO & CREDIT INFORMATION
 # ============================================
 # Site Owner: Uganda Avocados
-# Founder/CEO: Richard Welishe (richard@ugandaavocados.org)
+# Founder/CEO: Richard Welishe (richard.welishe@ugandaavocados.org)
 # Developer: barasa godwil Technologies (https://barasagodwil.tech)
 # Contact: info@ugandaavocados.org | +256393208717
