@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- HOMEPAGE -->
+  <url>
+    <loc>https://ugandaavocados.org/</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ugandaavocados.org/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://ugandaavocados.org/sw/"/>
+  </url>
+  
+  <!-- ABOUT PAGE -->
+  <url>
+    <loc>https://ugandaavocados.org/about</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- TEAM PAGE (includes Richard Welishe) -->
+  <url>
+    <loc>https://ugandaavocados.org/team</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- CONTACT PAGE -->
+  <url>
+    <loc>https://ugandaavocados.org/contact</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- MEMBERSHIP PAGE -->
+  <url>
+    <loc>https://ugandaavocados.org/membership</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- EXPORTS PAGE -->
+  <url>
+    <loc>https://ugandaavocados.org/exports</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- BLOG PAGES -->
+  <url>
+    <loc>https://ugandaavocados.org/blog</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- CONFERENCE LINK (important for cross-linking) -->
+  <url>
+    <loc>https://ugandaavocados.org/conference-2026</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+</urlset>

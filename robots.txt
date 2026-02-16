@@ -1,0 +1,26 @@
+# robots.txt - UGANDA AVOCADOS MAIN SITE
+# https://ugandaavocados.org
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /draft/
+
+# Sitemap location
+Sitemap: https://ugandaavocados.org/sitemap-main.xml
+
+# Crawl settings
+Crawl-delay: 2
+
+# Host
+Host: https://ugandaavocados.org
+
+# ============================================
+# SEO & CREDIT INFORMATION
+# ============================================
+# Site Owner: Uganda Avocados
+# Founder/CEO: Richard Welishe (richard@ugandaavocados.org)
+# Developer: barasa godwil Technologies (https://barasagodwil.tech)
+# Contact: info@ugandaavocados.org | +256393208717
